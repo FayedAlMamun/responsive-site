@@ -1,0 +1,21 @@
+a.active{
+    color: coral;
+    border: none;
+    border-bottom: 2px solid white;
+    width: fit-content;
+}
+.off{
+    color: white;
+    border: none;
+}
+a.off:hover{
+    text-decoration: none;
+    color:coral;
+}
+a.links{
+    color: white;
+}
+a.links:hover{
+    text-decoration: none;
+    color: white;
+}
